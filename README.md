@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋🏽🐮
+
+# Self information
+
+# [Rolling Scopes School](https://rs.school "RSS site")
+
+- 🐣 CV repository [ Defferk / rsschool-cv](https://github.com/Defferk/rsschool-cv/tree/gh-pages "Link for reposityry")
 
 <!--
 **Defferk/Defferk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
